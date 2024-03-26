@@ -5,15 +5,15 @@
   "dependencies": {
     "@coveo/headless": "^2.37.0",
     "@coveo/search-token-server": "^1.35.29",
-    "@emotion/react": "^11.10.8",
-    "@emotion/styled": "^11.10.8",
-    "@mui/material": "^5.12.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.12.3",
     "concurrently": "^7.6.0",
     "dotenv": "^16.0.3",
     "get-port": "^5.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.11.0",
+    "react-router-dom": "^6.11.2",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5"
   },
@@ -44,13 +44,13 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.0.0",
-    "@testing-library/user-event": "^14.4.3",
-    "@types/jest": "^29.5.1",
-    "@types/node": "^18.16.3",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^18.16.20",
+    "@types/react": "^18.2.69",
+    "@types/react-dom": "^18.2.22",
     "@types/react-router-dom": "^5.3.3"
   }
 }
