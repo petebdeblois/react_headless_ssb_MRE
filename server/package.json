@@ -15,12 +15,12 @@
     "cookie-session": "^2.1.0",
     "cors": "^2.8.5",
     "csurf": "^1.11.0",
-    "dotenv": "^16.0.3",
-    "express": "^4.17.3",
-    "helmet": "^6.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "helmet": "^6.2.0",
     "isomorphic-fetch": "^3.0.0",
     "ts-node": "10.9.2",
-    "typescript": "^4.1.6"
+    "typescript": "^4.9.5"
   },
   "scripts": {
     "start": "ts-node server.ts",
@@ -35,7 +35,7 @@
     "@types/csurf": "1.11.5",
     "@types/helmet": "4.0.0",
     "@types/jest": "29.5.12",
-    "@types/node": "^18.11.19",
+    "@types/node": "^18.19.26",
     "@types/supertest": "2.0.16",
     "@typescript-eslint/eslint-plugin": "5.59.11",
     "eslint": "8.39.0",
