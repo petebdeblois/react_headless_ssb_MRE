@@ -20,7 +20,7 @@
     "helmet": "^6.2.0",
     "isomorphic-fetch": "^3.0.0",
     "ts-node": "10.9.2",
-    "typescript": "^4.9.5"
+    "typescript": "^5.4.3"
   },
   "scripts": {
     "start": "ts-node server.ts",
